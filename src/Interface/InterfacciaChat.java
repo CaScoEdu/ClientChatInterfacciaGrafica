@@ -54,10 +54,8 @@ public class InterfacciaChat {
 	public InterfacciaChat() {
 		
 		
-		
 		initialize();
-		
-		
+			
 		Socket clientSocket; 
 		 
 		 try {
